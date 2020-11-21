@@ -1,0 +1,6 @@
+DATA ANALYSIS OF UDEMY COURSES
+
+1. The dataset contains all courses data for all subjects.
+2. We have take a dataset of weather which contains about 3682 rows.
+3. The data is available as a csv file downlaoded from kaggle.
+4. We will analyze this data using pandas library
